@@ -1,0 +1,8 @@
+*.xml
+*.mf
+build
+dist
+nbproject
+test
+*.pdf
+*.ods
